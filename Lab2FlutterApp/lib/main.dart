@@ -12,7 +12,7 @@ import 'package:flutter_lab_translator/presentation/main_screen.dart';
 import 'data/favorite/i_favorite_repository.dart';
 
 // Ключ доступу до API Google Translate
-const _googleApiKey = 'AIzaSyBe_LCfqRDMx0x5IX_mLXt8kpAyxKl5aO4';
+const _googleApiKey = '****';
 
 void main() async {
   runApp(MyApp());
